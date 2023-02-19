@@ -17,6 +17,6 @@ Elaboré mi proyecto con un dataset muy detallado y completo extraído de kaggle
 Después de probar las diferentes herramientas me decidí por Tableau, consideré que disponía de una interfaz mucho más intuitiva y que arrojaba un dashboard mucho más estético.
 
 
-![DASHBOARD]
-(https://github.com/pgmar257/Project-VIZ/blob/main/Dashboard%201.png?raw=true)
+![DASHBOARD](https://github.com/pgmar257/Project-VIZ/blob/main/Dashboard%201.png)
+
 
