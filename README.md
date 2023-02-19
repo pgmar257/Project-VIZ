@@ -24,7 +24,7 @@ Después de probar las diferentes herramientas me decidí por Tableau, consider�
 
 ### Dashboard completo:
 
-![alt text](https://github.com/pgmar257/Project-VIZ/blob/main/Dashboard%201.png?raw=true)
+![alt text](https://github.com/pgmar257/Project-VIZ/blob/main/images/Dashboard%201.png)
 
 
 ## Introducción al análisis
