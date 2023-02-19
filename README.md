@@ -44,7 +44,7 @@ Esto ha permitido que las empresas estadounidenses lideren la vanguardia del ava
 - Mejor pagados
 
 ![alt text](https://github.com/pgmar257/Project-VIZ/blob/main/images/captura%20introduccion2.png)
-![alt text](https://github.com/pgmar257/Project-VIZ/blob/main/images/captura%20introducci%C3%B3n1.png)
+![alt text](https://github.com/pgmar257/Project-VIZ/blob/main/images/captura%20introduccion3.png)
 
 
 
