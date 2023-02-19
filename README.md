@@ -29,12 +29,16 @@ Después de probar las diferentes herramientas me decidí por Tableau, consider�
 
 ## Introducción al análisis
 
-### 'EE.UU. El rey mundial del data'
+### 'EE.UU.: El rey mundial del data'
 
-Estados Unidos se ha convertido en uno de los principales centros de la industria del data en el mundo, con una gran cantidad de empresas que buscan profesionales capacitados para manejar grandes cantidades de información y convertirlas en conocimientos útiles para la toma de decisiones empresariales. A medida que la demanda de trabajadores del data ha aumentado en los últimos años, los salarios en el sector también se han disparado, con Estados Unidos ofreciendo algunos de los mejores salarios en la industria. Por tanto, no es de extrañar que muchas personas de todo el mundo vean a los Estados Unidos como un lugar ideal para desarrollar sus carreras en el campo del data.
+Estados Unidos se ha convertido en uno de los principales centros de la industria del data en el mundo, con una gran cantidad de empresas que buscan profesionales capacitados para manejar grandes cantidades de información y convertirlas en conocimientos útiles para la toma de decisiones empresariales. 
+A medida que la demanda de trabajadores del data ha aumentado en los últimos años, los salarios en el sector también se han disparado, con Estados Unidos ofreciendo algunos de los mejores salarios en la industria. Por tanto, no es de extrañar que muchas personas de todo el mundo vean a los Estados Unidos como un lugar ideal para desarrollar sus carreras en el campo del data.
 
 ![alt text](https://github.com/pgmar257/Project-VIZ/blob/main/images/captura%20introducci%C3%B3n1.png)
 
+
+Además de las oportunidades laborales y salariales, Estados Unidos cuenta con una infraestructura de tecnología avanzada y una cultura emprendedora que fomenta la innovación y el desarrollo de nuevas ideas y soluciones. 
+Esto ha permitido que las empresas estadounidenses lideren la vanguardia del avance tecnológico, especialmente en el campo de la inteligencia artificial y el análisis de datos.
 
 
 
