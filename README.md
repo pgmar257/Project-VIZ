@@ -29,7 +29,9 @@ Después de probar las diferentes herramientas me decidí por Tableau, consider�
 
 ## Introducción al análisis
 
-### EE.UU EL REY DEL DATA:
+### 'EE.UU. El rey mundial del data'
+
+Estados Unidos se ha convertido en uno de los principales centros de la industria del data en el mundo, con una gran cantidad de empresas que buscan profesionales capacitados para manejar grandes cantidades de información y convertirlas en conocimientos útiles para la toma de decisiones empresariales. A medida que la demanda de trabajadores del data ha aumentado en los últimos años, los salarios en el sector también se han disparado, con Estados Unidos ofreciendo algunos de los mejores salarios en la industria. Por tanto, no es de extrañar que muchas personas de todo el mundo vean a los Estados Unidos como un lugar ideal para desarrollar sus carreras en el campo del data.
 
 
 
