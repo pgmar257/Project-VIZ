@@ -37,8 +37,16 @@ A medida que la demanda de trabajadores del data ha aumentado en los últimos a�
 ![alt text](https://github.com/pgmar257/Project-VIZ/blob/main/images/captura%20introducci%C3%B3n1.png)
 
 
-Además de las oportunidades laborales y salariales, Estados Unidos cuenta con una infraestructura de tecnología avanzada y una cultura emprendedora que fomenta la innovación y el desarrollo de nuevas ideas y soluciones. 
-Esto ha permitido que las empresas estadounidenses lideren la vanguardia del avance tecnológico, especialmente en el campo de la inteligencia artificial y el análisis de datos.
+Estados Unidos cuenta con una infraestructura de tecnología avanzada y una cultura emprendedora que fomenta la innovación y el desarrollo de nuevas ideas y soluciones. 
+Esto ha permitido que las empresas estadounidenses lideren la vanguardia del avance tecnológico, especialmente en el campo de la inteligencia artificial y el análisis de datos, todo ello se traduce en:
+
+- Más puestos
+- Mejor pagados
+
+![alt text]()
+![alt text]()
+
+
 
 
 
