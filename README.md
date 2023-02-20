@@ -64,7 +64,7 @@ Sin embargo, es importante tener en cuenta que otros países del mundo también 
 
 En conclusión, los Estados Unidos se han convertido en uno de los principales centros de la industria del data en el mundo, y hay una gran cantidad de oportunidades laborales disponibles para los profesionales del data en una variedad de industrias y sectores. La demanda de habilidades relacionadas con el procesamiento y análisis de grandes cantidades de información sigue siendo alta, y se espera que continúe creciendo en el futuro.
 
-Si estás considerando mudarte a los Estados Unidos para desarrollar tu carrera en el campo del data, es importante tener en cuenta tus objetivos profesionales, tus habilidades y experiencia, y tus preferencias personales. Aunque hay muchas oportunidades disponibles, también hay desafíos y limitaciones a tener en cuenta, como la brecha salarial y los problemas de privacidad y seguridad de datos.
+Si algunos profesionales del data están considerando mudarse a los Estados Unidos para desarrollar su carrera en el campo del data, es importante que tengan en cuenta sus objetivos profesionales, habilidades y experiencia, además de sus preferencias personales. Aunque hay muchas oportunidades disponibles, también hay desafíos y limitaciones a tener en cuenta, como la brecha salarial y los problemas de privacidad y seguridad de los datos.
 
 
 ![image](https://github.com/pgmar257/Project-VIZ/blob/main/images/76dc53_f8165557dcab4fdd8c20315468aabbee_mv2.gif)
