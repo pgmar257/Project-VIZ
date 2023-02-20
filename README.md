@@ -34,6 +34,7 @@ Después de probar las diferentes herramientas me decidí por Tableau, consider�
 Estados Unidos se ha convertido en uno de los principales centros de la industria del data en el mundo, con una gran cantidad de empresas que buscan profesionales capacitados para manejar grandes cantidades de información y convertirlas en conocimientos útiles para la toma de decisiones empresariales. 
 A medida que la demanda de trabajadores del data ha aumentado en los últimos años, los salarios en el sector también se han disparado, con Estados Unidos ofreciendo algunos de los mejores salarios en la industria. Por tanto, no es de extrañar que muchas personas de todo el mundo vean a los Estados Unidos como un lugar ideal para desarrollar sus carreras en el campo del data.
 
+
 ![alt text](https://github.com/pgmar257/Project-VIZ/blob/main/images/captura%20introducci%C3%B3n1.png)
 
 
@@ -42,6 +43,7 @@ Esto ha permitido que las empresas estadounidenses lideren la vanguardia del ava
 
 - Más puestos
 - Mejor pagados
+
 
 ![alt text](https://github.com/pgmar257/Project-VIZ/blob/main/images/captura%20introduccion2.png)
 ![alt text](https://github.com/pgmar257/Project-VIZ/blob/main/images/captura%20introduccion3.png)
@@ -53,11 +55,14 @@ Algunas personas argumentan que la concentración de datos en manos de unas poca
 
 ![alt text](https://github.com/pgmar257/Project-VIZ/blob/main/images/Logos.png)
 
+
 En los Estados Unidos, hay una gran cantidad de residentes que trabajan en el campo del data, incluyendo analistas de datos, científicos de datos, ingenieros de datos, desarrolladores de software, especialistas en inteligencia artificial y otros profesionales relacionados con el procesamiento y análisis de grandes cantidades de información.
 
 En el contexto del sector de datos o de empleados que trabajan en el campo del data, es cierto que Estados Unidos se encuentra en una posición líder en comparación con otros países del mundo. Hay varias razones para esto, como la presencia de empresas líderes en tecnología y datos, un sistema educativo avanzado en el campo de la informática y la tecnología, y una cultura empresarial que valora la innovación y la tecnología.
 
 Sin embargo, es importante tener en cuenta que otros países del mundo también están haciendo avances significativos en el campo del data y pueden tener sus propias fortalezas y ventajas. Por ejemplo, algunos países de Europa tienen leyes de protección de datos más estrictas que los Estados Unidos, lo que puede ser una ventaja para las empresas que se preocupan por la privacidad y la seguridad de los datos. Además, países como China e India tienen enormes poblaciones y mercados en expansión, lo que puede ser atractivo para las empresas que buscan expandirse globalmente.
+
+
 
 ![alt text](https://github.com/pgmar257/Project-VIZ/blob/main/images/captura%20introduccion4.png)
 
@@ -65,6 +70,7 @@ Sin embargo, es importante tener en cuenta que otros países del mundo también 
 En conclusión, los Estados Unidos se han convertido en uno de los principales centros de la industria del data en el mundo, y hay una gran cantidad de oportunidades laborales disponibles para los profesionales del data en una variedad de industrias y sectores. La demanda de habilidades relacionadas con el procesamiento y análisis de grandes cantidades de información sigue siendo alta, y se espera que continúe creciendo en el futuro.
 
 Si algunos profesionales del data están considerando mudarse a los Estados Unidos para desarrollar su carrera en el campo del data, es importante que tengan en cuenta sus objetivos profesionales, habilidades y experiencia, además de sus preferencias personales. Aunque hay muchas oportunidades disponibles, también hay desafíos y limitaciones a tener en cuenta, como la brecha salarial y los problemas de privacidad y seguridad de los datos.
+
 
 
 ![image](https://github.com/pgmar257/Project-VIZ/blob/main/images/76dc53_f8165557dcab4fdd8c20315468aabbee_mv2.gif)
